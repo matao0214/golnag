@@ -1,8 +1,8 @@
 package main
 import "fmt"
 func main(){
-    var n,m int
-    fmt.Scan(&n)
-    fmt.Scan(&m)
-    fmt.Println(n/10*m)
+    var a,b int
+    fmt.Scan(&a)
+    fmt.Scan(&b)
+    fmt.Println(a/10*b)
 }
