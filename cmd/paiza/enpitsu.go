@@ -4,4 +4,5 @@ func main(){
     var n int
     fmt.Scan(&n)
     fmt.Println(n*12)
+		fmt.Println(n/12)
 }
